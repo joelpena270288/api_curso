@@ -1,0 +1,6 @@
+export enum PlanType {
+  STANDARD = 'STANDARD',
+  PLATINIUM = 'PLATINIUM',
+  GOLDEN = 'GOLDEN',
+  GENERAL = 'GENERAL',
+}
